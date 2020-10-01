@@ -529,9 +529,9 @@
   integrity sha512-4Tpfm6JHgBjB4z9VhKQ0NcYY1cgYnFHtranW+iTblj1fVmd0/GV/BVIzRXuk0w8u1WmDFnO6uRo+aVi2ZaU1nQ==
 
 "@azure/arm-appservice@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@azure/arm-appservice/-/arm-appservice-6.0.0.tgz#208c27b79bdd8a296249a4ac2714a2246af3df88"
-  integrity sha512-kAr/Xjx5FQ+cFdSE21kHP4ZuQrc6kwCH21vI8ccYwZKG9IIgpoJ4arDnjucTWGpIOBgB5h06xT5nePN+qZNgoQ==
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/@azure/arm-appservice/-/arm-appservice-6.1.0.tgz#c2c4c4d50bd9f0eccbd81a268e1f6ec649aa7caa"
+  integrity sha512-CST99Ht+ziZ42zlCpIqKZ2vIrDHBStk9ODIEue08LU+AFIbRuXqR7DFyLv9Q8NldCvzKAXFfCA6LJiJgCYoEWw==
   dependencies:
     "@azure/ms-rest-azure-js" "^2.0.1"
     "@azure/ms-rest-js" "^2.0.4"
